@@ -27,35 +27,6 @@ Git & GitHub
 
 ---
 
-retail-business-insights-engine
-│
-├── data
-│ ├── raw
-│ │ └── Sample - Superstore.csv
-│ └── processed
-│ └── cleaned_data.csv
-│
-├── python
-│ ├── data_cleaning.py
-│ └── retail.db
-│
-├── sql
-│ └── create_table.sql
-│
-├── powerbi
-│ └── retail_dashboard.pbix
-│
-├── images
-│ ├── dashboard.png
-│ ├── sales_region.png
-│ ├── top_products.png
-│ └── sales_trend.png
-│
-└── README.md
-
-
----
-
 # Dashboard Preview
 
 ## Main Dashboard
