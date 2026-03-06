@@ -1,6 +1,6 @@
 # Retail Business Insights Engine
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
@@ -31,19 +31,19 @@ Git & GitHub
 
 ## Main Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Sales Trend Over Time
 
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](images/Sales_trend.png)
 
 ## Top Products
 
-![Top Products](images/top_products.png)
+![Top Products](images/Top_products.png)
 
 ## Sales by Region
 
-![Sales by Region](images/sales_region.png)
+![Sales by Region](images/Sales_region.png)
 
 ---
 
